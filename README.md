@@ -1,2 +1,2 @@
 # hello-world
-hello-world Github guides
+Hello this is chad. I am learning to code. 
